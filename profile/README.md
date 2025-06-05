@@ -10,3 +10,9 @@ G+D has been the trusted partner of the most demanding institutions since 1852. 
 To learn more about G+D, visit our [Company Profile](https://www.gi-de.com/en/group/company) pages.
 
 See our [Careers](https://www.gi-de.com/en/careers/jobs) pages for interesting job postings in many locations accross the globe.
+
+## G+D Group Companies @ GitHub
+
+![Logo of G+D Netcetera.](/profile/netcetera-w350.png)
+
+See [Netcetera](https://github.com/netceteragroup) for the official GitHub presence of our group company.
