@@ -7,6 +7,6 @@ G+D has been the trusted partner of the most demanding institutions since 1852. 
 * Financial Platforms, and
 * Currency Technology.
 
-To learn more about G+D, visit our [Company Profile pages](https://www.gi-de.com/en/group/company).
+To learn more about G+D, visit our [Company Profile](https://www.gi-de.com/en/group/company) pages.
 
-See [our Careers pages](https://www.gi-de.com/en/careers/jobs) for interesting job postings in many locations accross the globe.
+See our [Careers](https://www.gi-de.com/en/careers/jobs) pages for interesting job postings in many locations accross the globe.
