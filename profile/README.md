@@ -1,4 +1,4 @@
-![Logo of Giesecke+Devrient (G+D) with the offical claim "Creating Confidence".](/GD_Logo_GieseckeDevrient.png)
+![Logo of Giesecke+Devrient (G+D) with the offical claim "Creating Confidence".](/profile/GD_Logo_GieseckeDevrient.png)
 
 # Giesecke+Devrient (G+D)
 
