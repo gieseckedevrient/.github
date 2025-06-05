@@ -13,6 +13,6 @@ See our [Careers](https://www.gi-de.com/en/careers/jobs) pages for interesting j
 
 ## G+D Group Companies @ GitHub
 
-![Logo of G+D Netcetera.](/profile/netcetera-w350.png)
+[<img alt="Logo of G+D Netcetera" width="350px" src="/profile/netcetera-w350.png" />](https://github.com/netceteragroup)
 
-See [Netcetera](https://github.com/netceteragroup) for the official GitHub presence of our group company.
+[Official GitHub presence](https://github.com/netceteragroup) of our group company G+D Netcetera.
