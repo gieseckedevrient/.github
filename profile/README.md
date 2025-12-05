@@ -11,6 +11,10 @@ See our [Careers](https://www.gi-de.com/en/careers/jobs) pages for interesting j
 
 ## G+D Group Companies @ GitHub
 
-[<img alt="Logo of G+D Netcetera" width="350px" src="/profile/netcetera-w350.png" />](https://github.com/netceteragroup)
+Official GitHub presence of our group company [G+D Netcetera](https://github.com/netceteragroup):
 
-Official GitHub presence of our group company [G+D Netcetera](https://github.com/netceteragroup).
+[<img alt="Logo of G+D Netcetera" width="175px" src="/profile/netcetera-w350.png" />](https://github.com/netceteragroup)
+
+Official GitHub presence of our group company [SysEleven](https://github.com/syseleven) (a secunet AG company):
+
+[<img alt="Logo of SysEleven" width="175px" src="/profile/syseleven-w350.png" />](https://github.com/syseleven)
