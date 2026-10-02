@@ -15,6 +15,10 @@ Official GitHub presence of our group company [G+D Netcetera](https://github.com
 
 [<img alt="Logo of G+D Netcetera" width="175px" src="/profile/netcetera-w350.png" />](https://github.com/netceteragroup)
 
+Official GitHub presence of our group company [secunet AG](https://github.com/secunet-AG):
+
+[<img alt="Logo of secunet AG" width="175px" src="/profile/secunet-w350.png" />](https://github.com/secunet-AG)
+
 Official GitHub presence of our group company [SysEleven](https://github.com/syseleven) (a secunet AG company):
 
 [<img alt="Logo of SysEleven" width="175px" src="/profile/syseleven-w350.png" />](https://github.com/syseleven)
